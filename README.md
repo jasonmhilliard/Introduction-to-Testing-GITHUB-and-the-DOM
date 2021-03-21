@@ -5,11 +5,12 @@ I. File list
 ------------
 Introduction to Testing and the Document Object Model (DOM) - Microsoft Word Document
 
-callbackFunctionExercise - JavaScript File
+PacMan1 - .PNG File
+PacMan2 - .PNG File
+PacMan3 - .PNG File
+PacMan4 - .PNG File
 
-wordCountExercise - HTML File
-
-sortingNumbersExercise - HTML File
+pacmenFactoryExercise - HTML File
 
 
 II. Concept

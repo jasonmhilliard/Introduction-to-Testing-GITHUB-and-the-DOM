@@ -3,7 +3,7 @@ Week7: Introduction to Testing, GITHUB, and the DOM
 
 I. File list
 ------------
-Callback Functions and Arrays - Microsoft Word Document
+Introduction to Testing and the Document Object Model (DOM) - Microsoft Word Document
 
 callbackFunctionExercise - JavaScript File
 
@@ -14,7 +14,7 @@ sortingNumbersExercise - HTML File
 
 II. Concept
 ----------
-The word document defines callback functions and how they are used in JavaScript and provides some example code. Also covered are more commands for manipulating an Array such as array.forEach, array.Filter and array.sort.
+The word document describes test drive development (TDD) and some of the aspects of software testing. It also talks about the workflow for GIT and the Document Object Model (DOM).
 
 The callbackFunctionExercise JavaScript file allows you to practice the syntax for callback functions using the developer tools in your browser.
 

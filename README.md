@@ -26,7 +26,7 @@ The word document describes test drive development (TDD) and some of the aspects
 
 The pacmenFactoryExercise HTML file can be loaded in your browser as a game. You need to save each of the PacMan .png files into a folder and then also save the pacmenFactoryExercise - HTML File into the same folder as your PacMan images. Once you are setup, you can drag and drop the HTML file into an empty browser and click on the AddPacMan button and then click the Start Game button. This will add a PacMan figure to your browser and randomly set the velocity and position in motion by firing a series of functions in JavaScript code. You can modify the images and change the link to the images in the code and make the game work with other icons if you like. Have fun!
 
-The index HTML file and the hello JavaScript File can be saved into the same folder. You can then drag and drop the HTML file into your browser and it will display a message in the console using your developer tools in the browser. This exercise helps you practice linking a JavaScript file inside of your HTML file using the script tag <script src="hello.js"></script>
+The index HTML file and the hello JavaScript File can be saved into the same folder. You can then drag and drop the HTML file into your browser and it will display a message in the console using your developer tools in the browser. This exercise helps you practice injecting a JavaScript file inside of your HTML file using the script tag <script src="hello.js"></script>
 
 
 III. Future Improvements

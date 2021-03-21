@@ -15,16 +15,18 @@ PacMan4 - .PNG File
 
 pacmenFactoryExercise - HTML File
 
+hello- HTML File
+
+hello - JavaScript File
+
 
 II. Concept
 ----------
 The word document describes test drive development (TDD) and some of the aspects of software testing. It also talks about the workflow for GIT and the Document Object Model (DOM).
 
-The callbackFunctionExercise JavaScript file allows you to practice the syntax for callback functions using the developer tools in your browser.
+The pacmenFactoryExercise HTML file can be loaded in your browser as a game. You need to save each of the PacMan .png files into a folder and then also save the pacmenFactoryExercise - HTML File into the same folder as your PacMan images. Once you are setup, you can drag and drop the HTML file into an empty browser and click on the AddPacMan button and then click the Start Game button. This will add a PacMan figure to your browser and randomly set the velocity and position in motion by firing a series of functions in JavaScript code. You can modify the images and change the link to the images in the code and make the game work with other icons if you like. Have fun!
 
-The wordCountExercise HTML file allows you to count the words in a paragraph (as a string) and also count each unique word and display those results in the developer tools using the browsers console. You can manipulate the text of the paragraph and add in your own text by modifying the variable let text = " ".  Simply drag and drop the HTML file into an empty browser tab and check the console for the results of the total word count and the unique word count of your string.
-
-The sortingNumbersExercise HTML File takes an array of numbers and provides the code to sort those numbers and output the results in the console provided by the developer tools in your browser.
+The hello HTML file and the hello JavaScript File can be saved into the same folder. You can then drag and drop the HTML file into your browser and it will display a message in the console using your developer tools in the browser. This exercise helps you practice linking a JavaScript file inside of your HTML file using the script tag <script src="hello.js"></script>
 
 
 III. Future Improvements

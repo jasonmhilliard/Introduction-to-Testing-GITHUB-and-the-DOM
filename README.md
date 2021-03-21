@@ -31,7 +31,7 @@ The index HTML file and the hello JavaScript File can be saved into the same fol
 
 III. Future Improvements
 ----------
-Nothing at this time.
+Expanding on the PacMen Factory game and improve the code to get it to function better. You can use custom icons if you like.
 
 IV.  License
 ----------

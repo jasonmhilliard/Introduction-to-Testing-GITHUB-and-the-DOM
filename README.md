@@ -6,8 +6,11 @@ I. File list
 Introduction to Testing and the Document Object Model (DOM) - Microsoft Word Document
 
 PacMan1 - .PNG File
+
 PacMan2 - .PNG File
+
 PacMan3 - .PNG File
+
 PacMan4 - .PNG File
 
 pacmenFactoryExercise - HTML File
